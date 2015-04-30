@@ -17,6 +17,7 @@ public class Plant {
 
 	public Plant(String name) {
 		this.name = name;
+		System.out.println("Mehehehe :3");
 	}
 
 	public void setPurchasedAt(String purchasedAt) {

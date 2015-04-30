@@ -7,7 +7,7 @@ public class plantView implements Observer {
 
 	@Override
 	public void update(Observable arg0, Object arg1) {
-		System.out.println("rawr! :3");
+		System.out.println("Fatima  är söt");
 		
 	}
 
